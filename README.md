@@ -1,5 +1,5 @@
-==========================================================================
-📌 TEAM TASK MANAGER (FULL-STACK WEB APPLICATION)
+--------------------------------------------------------------------------
+*📌 TEAM TASK MANAGER (FULL-STACK WEB APPLICATION)*
 ==========================================================================
 
 This is a professional full-stack project management web application. It helps teams create projects, assign tasks to members, and track status live. The app has separate dashboards for Admins and Members (Role-Based Access Control) to keep data secure.
@@ -60,5 +60,5 @@ The project uses a relational database model with three properly linked tables:
 3. Tasks Table: Stores Task Title, Status (Pending, In Progress, Completed), Due Date, linked to a specific Project ID and assigned to a User ID.
 
 --------------------------------------------------------------------------
-*Built with care for the technical selection round.*
+*Built by saiteja gundeti for ethara ai nomination form*
 ==========================================================================
